@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Engineering",
+      "position": "Software Engineer",
+      "age": 35,
+      "email": "johndoe@example.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "position": "Marketing Manager",
+      "age": 40,
+      "email": "janesmith@example.com",
+      "phone": "555-5678"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "department": "Finance",
+      "position": "Financial Analyst",
+      "age": 30,
+      "email": "alicejohnson@example.com",
+      "phone": "555-9876"
+    }
+  ]
+}
